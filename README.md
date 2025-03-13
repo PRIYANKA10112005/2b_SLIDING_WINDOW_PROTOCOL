@@ -1,6 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## NAME : PRIYANKA P
-## REGISTER NUMBER : 212224230212
+## REGISTER NUMBER : 212224230212 
 ## AIM
 To write a python program to perform sliding window protocol
 ## ALGORITHM:
