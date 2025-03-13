@@ -67,6 +67,14 @@ c.close()
 ### server
 ![Screenshot 2025-03-13 104254](https://github.com/user-attachments/assets/f7ff572e-0921-444b-b67a-8721d912c896)
 
+
+
+
+
+
+
+
+
 ### client
 
 
