@@ -70,5 +70,10 @@ c.close()
 ### client
 ![Screenshot 2025-03-13 104339](https://github.com/user-attachments/assets/3482601f-74f6-4621-b203-fdb52a781482)
 
+
+
+
+
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
